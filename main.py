@@ -76,8 +76,5 @@ while not complete:
         if user_continue in stop:
             complete = True
 
-
-
-    
-
-    
+print("\nMorse Code Program Completed!!!")
+print("---------------------------------")
